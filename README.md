@@ -37,7 +37,7 @@ Ce projet consiste à créer une application web permettant aux clients d'un cin
 
 ## Technologies Utilisées
 
-- **Frontend** : HTML, CSS, JavaScript (ou TypeScript)
+- **Frontend** : HTML, CSS, JavaScript
 - **Backend** : Utilisation d'un serveur HTTP local (Extension Live Server sur VS)
 - **API** : OMDb (The Open Movie Database)
 - **Gestion de projet** : Git & GitHub
